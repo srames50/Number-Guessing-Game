@@ -1,4 +1,3 @@
-// CS210 Assignment #5 "GuessingGame"
 // Shyam Ramesh
 // This program is a guessing game where the computer generates a number between 1-100 and the user takes turns guessing the correct number
 // The program tracks the users' stats such as total games, total guesses and best game which are all displayed once the user decides to stop playing
